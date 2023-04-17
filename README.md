@@ -1,2 +1,2 @@
-# One
- O Desafio ONE: Iniciante em programação
+# Desafio-Alura
+ Challenge ONE Sprint 01: Construa um decodificador de texto com Javascript
